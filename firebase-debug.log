@@ -1,0 +1,21 @@
+[debug] [2023-01-02T12:38:46.493Z] ----------------------------------------------------------------------
+[debug] [2023-01-02T12:38:46.499Z] Command:       C:\Scoop\apps\nvm\current\nodejs\nodejs\node.exe C:\Scoop\apps\nvm\current\nodejs\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-01-02T12:38:46.499Z] CLI Version:   11.19.0
+[debug] [2023-01-02T12:38:46.500Z] Platform:      win32
+[debug] [2023-01-02T12:38:46.500Z] Node Version:  v16.4.0
+[debug] [2023-01-02T12:38:46.503Z] Time:          Mon Jan 02 2023 21:38:46 GMT+0900 (대한민국 표준시)
+[debug] [2023-01-02T12:38:46.503Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-01-02T12:38:46.524Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-01-02T12:38:46.525Z] > authorizing via signed-in user (soyoon6875@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\highs\Desktop\리액트\react-disney-app
+
